@@ -1,5 +1,5 @@
 # Word Counter
-Counts words and displays them and their counts in descending order. For the purposes of this program, any uninterrupted sequence of word characters is considered a word, where a "word character" is defined as the value signified by the regex `\w`.
+Counts words and displays them and their counts in descending order. For the purposes of this program, any uninterrupted sequence of word characters is considered a word, where a "word character" is defined as the value signified by the regex `\w`, more or less.
 
 ## Running This Program
 1. Download Java 17 from [here](https://adoptium.net/).
